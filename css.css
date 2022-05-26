@@ -23,10 +23,8 @@ body{
 .mif {
     color: rgb(255, 183, 0);
     text-align: center;
-    font-size: 111%;
 }
 .file p{
-    font-size: 110%;
     text-align: center;
     color: rgb(255, 124, 30);
     font-weight: bolder;
@@ -45,8 +43,8 @@ body{
     margin-right: auto;
 }
 .sidenav {
-margin:10px;
-  height: 100%; /* 100% Full-height */
+margin:14px;
+  height: max-content; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
@@ -55,6 +53,7 @@ margin:10px;
   background-color: #111; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
+  padding-bottom: 60px; /* Place content 60px from the bottom */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
