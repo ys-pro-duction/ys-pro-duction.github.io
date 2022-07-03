@@ -2710,13 +2710,13 @@ li {
 }
 @font-face {
   font-family: 'Sharpgroteskbook25';
-  src: url('https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5cff871b4c90e2a55edcc1d4_SharpGroteskBook25.ttf') format('truetype');
+  src: url('font/SharpGroteskBook25.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Abuget';
-  src: url('https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5cff87322044e29082cf35a5_Abuget.ttf') format('truetype');
+  src: url('font/Abuget.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
