@@ -271,7 +271,7 @@ li {
 .bg-main {
   width: 100%;
   height: 100vh;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5cffeaf7b3cb0ed2d33f7943_hero.jpg");
+  background-image: url("image/hero.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -284,7 +284,7 @@ li {
   overflow: visible;
   width: 100%;
   height: 150vh;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5d13364599bb70e3560cc4e5_background-min%203.png");
+  background-image: url("image/background-min3.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -374,7 +374,7 @@ li {
 .img-cast-1 {
   width: 100%;
   height: 100%;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5d000a3b16a6c64e19f1841b_1.jpg");
+  background-image: url("image/y1.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -507,7 +507,7 @@ li {
 .img-cast-2 {
   width: 100%;
   height: 100%;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5d000a3b7c779fffb58ff3ed_2.jpg");
+  background-image: url("image/y2.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -552,7 +552,7 @@ li {
 .img-cast-3 {
   width: 100%;
   height: 100%;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5d4029b7763f97bdb3dec2f7_jno507n0iz131.jpg");
+  background-image: url("image/y3.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -607,7 +607,7 @@ li {
 .img-cast-4 {
   width: 100%;
   height: 100%;
-  background-image: url("https://uploads-ssl.webflow.com/5cff83ac2044e22cb8cf2f11/5d002392773f43b68a233649_4.jpg");
+  background-image: url("image/y4.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
