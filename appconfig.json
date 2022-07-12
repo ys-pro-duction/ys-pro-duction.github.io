@@ -1,6 +1,6 @@
 {
   "ads": true,
-  "testAd": true,
+  "testAd": false,
   "autoC": true,
   "adsT": "90000",
   "autoCT":"40000",
